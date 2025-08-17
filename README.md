@@ -1,6 +1,6 @@
 # AI Video Generator
 
-A simple web app that generates short animated videos from text prompts using AI.
+A simple web app that generates short animated videos from text prompts using AI. Might take 1-2 minutes to generate clip due to CPU Hosting.
 
 ## Live Demo
 [https://huggingface.co/spaces/Anmol52490/video-clip](https://huggingface.co/spaces/Anmol52490/video-clip)
